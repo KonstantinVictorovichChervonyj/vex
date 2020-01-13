@@ -1,1 +1,1 @@
-# vex
+# wordpress theme "vex"
